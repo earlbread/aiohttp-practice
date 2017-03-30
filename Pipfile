@@ -4,4 +4,6 @@ verify_ssl = true
 
 [packages]
 aiohttp = "*"
+trafaret = "*"
+trafaret-config = "*"
 SQLAlchemy = "*"

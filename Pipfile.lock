@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "b602422b6372d99160681ad802100f02616e5fb36277fb695fa5593861342f42"
+            "sha256": "a203d9e0832137f3c8cd52b9c5cb3bd13a2071688efb69ce5eafe5906295818b"
         },
         "requires": {},
         "sources": [
@@ -12,6 +12,10 @@
         ]
     },
     "default": {
+        "PyYAML": {
+            "hash": "sha256:592766c6303207a20efc445587778322d7f73b161bd994f227adaa341ba212ab",
+            "version": "==3.12"
+        },
         "SQLAlchemy": {
             "hash": "sha256:9308b2886285dec57aa9e569a0519220e83515e15c6e3eda803c07deb7c1cbad",
             "version": "==1.1.7"
@@ -31,6 +35,14 @@
         "multidict": {
             "hash": "sha256:f2364a0d3bd877868d7ae35674954fa248bad588fb0984f6c49aa24757b9a4f6",
             "version": "==2.1.4"
+        },
+        "trafaret": {
+            "hash": "sha256:4e8b4b318f0ee5c6e03d96854a5b951a1546449c8c490b38748d06e7d41a66fe",
+            "version": "==0.9.0"
+        },
+        "trafaret-config": {
+            "hash": "sha256:01477a5bf885eb2c598c8b57618f9cba13ff0d59ddc115d11e7d7a6be6da4925",
+            "version": "==1.0.1"
         },
         "yarl": {
             "hash": "sha256:f72e072a8e66545797341f79280de2b0ffa790736d1dafd4d7f3f0b837609dfc",
