@@ -1,2 +1,6 @@
 .venv
 __pycache__
+.cache
+.eggs
+.ropeproject
+*.egg-info
