@@ -1,0 +1,41 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "b602422b6372d99160681ad802100f02616e5fb36277fb695fa5593861342f42"
+        },
+        "requires": {},
+        "sources": [
+            {
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "SQLAlchemy": {
+            "hash": "sha256:9308b2886285dec57aa9e569a0519220e83515e15c6e3eda803c07deb7c1cbad",
+            "version": "==1.1.7"
+        },
+        "aiohttp": {
+            "hash": "sha256:72dae304a7aae4ba37036fa78f12c5d172c8c61372c7b7b826bbf80cbc60fc26",
+            "version": "==2.0.5"
+        },
+        "async_timeout": {
+            "hash": "sha256:2507257417470f41e40ae9265d0abdbff6d936b6e0d5831132d35714c9cd433d",
+            "version": "==1.2.0"
+        },
+        "chardet": {
+            "hash": "sha256:aaf514bde38020b4f1e42c6a6e141f2827a8a58ccfc3b22b6ff5a1a4b50be56e",
+            "version": "==2.3.0"
+        },
+        "multidict": {
+            "hash": "sha256:f2364a0d3bd877868d7ae35674954fa248bad588fb0984f6c49aa24757b9a4f6",
+            "version": "==2.1.4"
+        },
+        "yarl": {
+            "hash": "sha256:f72e072a8e66545797341f79280de2b0ffa790736d1dafd4d7f3f0b837609dfc",
+            "version": "==0.10.0"
+        }
+    },
+    "develop": {}
+}
