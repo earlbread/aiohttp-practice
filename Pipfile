@@ -2,11 +2,11 @@
 url = "https://pypi.python.org/simple"
 verify_ssl = true
 
-[dev-packages]
-pytest-aiohttp = "*"
-
 [packages]
 aiohttp = "*"
 trafaret = "*"
 trafaret-config = "*"
 SQLAlchemy = "*"
+
+[dev-packages]
+pytest-aiohttp = "*"
