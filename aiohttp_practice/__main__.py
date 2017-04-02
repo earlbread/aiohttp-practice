@@ -1,4 +1,10 @@
 import sys
+import argparse
 from aiohttp_practice.main import main
 
-main(sys.argv[1:])
+parser = argparse.ArgumentParser()
+parser.add_argument('--port')
+
+args = parser.parse_args()
+
+main(args)
